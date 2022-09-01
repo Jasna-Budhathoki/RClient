@@ -1,6 +1,6 @@
 Package: RClient
 Type: Package
-Title: BaatoRClient
+Title: R Client for Baato
 Version: 0.0.1.0
 Author: Jasna Budhathoki
 Maintainer: Jasna Budhathoki <jasna.budhathoki@gmail.com>
